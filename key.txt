@@ -1,1 +1,0 @@
-weatherapi_key="373eb9e0544645fb64be18262f3a0589";
